@@ -4,6 +4,10 @@
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
-
+    <style name="BottomNavigation">
+        <item name="android:background">@color/green_dark</item>
+        <item name="itemIconTint">@color/green_light2</item>
+        <item name="itemTextColor">@color/green_light2</item>
+    </style>
     <style name="Theme.Parcial1amacm4ahlunaferenazmarconi" parent="Base.Theme.Parcial1amacm4ahlunaferenazmarconi" />
 </resources>

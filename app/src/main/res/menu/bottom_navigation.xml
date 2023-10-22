@@ -3,16 +3,16 @@
     <item
         android:id="@+id/inicio"
         android:icon="@android:drawable/star_on"
-        android:title="Inicio"/>
+        android:title="inicio"/>
 
     <item
         android:id="@+id/venta"
         android:icon="@android:drawable/ic_input_add"
-        android:title="Venta"/>
+        android:title="venta"/>
 
     <item
         android:id="@+id/inventario"
         android:icon="@android:drawable/ic_menu_search"
-        android:title="Inventario"/>
+        android:title="inventario"/>
 
 </menu>
