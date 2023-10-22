@@ -2,17 +2,17 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/inicio"
-        android:icon="@android:drawable/star_on"
-        android:title="inicio"/>
+        android:icon="@drawable/baseline_home_24"
+        android:title="Inicio" />
 
     <item
         android:id="@+id/venta"
-        android:icon="@android:drawable/ic_input_add"
-        android:title="venta"/>
+        android:icon="@drawable/baseline_add_shopping_cart_24"
+        android:title="Venta" />
 
     <item
         android:id="@+id/inventario"
-        android:icon="@android:drawable/ic_menu_search"
-        android:title="inventario"/>
+        android:icon="@drawable/baseline_sd_storage_24"
+        android:title="Inventario" />
 
 </menu>
