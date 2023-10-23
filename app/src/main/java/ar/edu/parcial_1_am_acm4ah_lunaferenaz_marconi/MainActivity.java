@@ -9,6 +9,7 @@ import androidx.fragment.app.FragmentTransaction;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
 import android.view.View;
@@ -38,9 +39,13 @@ public class MainActivity extends AppCompatActivity {
         btnBuscarLibro.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                Intent i = new Intent(MainActivity.this, Buscar.class);
+                startActivity(i);
                 Toast.makeText(getApplicationContext(),"El libro no existee",Toast.LENGTH_SHORT).show();
             }
         });
+
+
 
 }}
 
