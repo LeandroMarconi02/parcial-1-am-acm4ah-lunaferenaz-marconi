@@ -6,4 +6,5 @@
     <string name="todo">TODO</string>
     <string name="logoyenny">es el logo de la libreria yenny\n</string>
     <string name="etLibro">Ingrese el nombre del libro</string>
+    <string name="btnBuscarLibro"> Buscar </string>
 </resources>
