@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         btnBuscarLibro.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(getApplicationContext(),"El libro no existe",Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(),"El libro no existee",Toast.LENGTH_SHORT).show();
             }
         });
 
