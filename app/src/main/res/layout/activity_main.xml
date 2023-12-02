@@ -74,6 +74,6 @@
         app:layout_constraintRight_toRightOf="parent"
         app:menu="@menu/bottom_navigation" />
 
-
+    <!--        no anda la nav bar de manera correcta/>-->
 </androidx.constraintlayout.widget.ConstraintLayout>
 
